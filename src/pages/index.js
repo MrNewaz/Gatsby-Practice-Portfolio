@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import Layout from "../components/Layout"
 import { btn, header } from "../styles/home.module.css"
 
-export default function Home({ data }) {
+export default function Home() {
   return (
     <Layout>
       <section className={header}>
