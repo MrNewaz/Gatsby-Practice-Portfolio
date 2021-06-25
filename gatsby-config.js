@@ -26,7 +26,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: "Web Warrior",
+    title: "Saif Newaz",
     description: "Web Dev Portfolio",
     copyright: "2021 Saif Newaz",
     contact: "Mr.SaifNewaz@gmail.com",
